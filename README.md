@@ -56,6 +56,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 * Using the COUNTIFS() formula, counted how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populated the 'Number Successful', 'Number Failed', and 'Number Canceled' columns with this data.
 * Added up each of the values in the 'Number Successful', 'Number Failed', and 'Number Canceled' columns to populate the 'Total Projects' column. Then, calculated the percentage of projects that were successful, failed, or canceled per goal range.
 * Created a line chart that graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
+
 ![alt text](https://github.com/gnivil/Excel-Challenge/blob/bbb193e4f608185bcb2273a70c6047426241a801/Chart%20Images/Bonus_Kickstart%20My%20Chart.png)
 
 -----
@@ -69,6 +70,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
     * The maximum number of backers.
     * The variance of the number of backers.
     * The standard deviation of the number of backers.
+
 ![alt text](https://github.com/gnivil/Excel-Challenge/blob/bbb193e4f608185bcb2273a70c6047426241a801/Chart%20Images/Bonus%20Statistical%20Analysis_Kickstart%20My%20Chart.png)
 
 -----
