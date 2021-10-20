@@ -14,18 +14,22 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 * Created two new columns, one called 'Category' at Q and another called 'Sub-Category' at R, which use Left and Right Find formulas to split the 'Category and Sub-Category' column into two parts.
 * Created a new column named 'Date Created Conversion' that uses the Unix timestamps formula to convert the data contained within 'launched_at' into Excel's date format.
 * Created a new column named 'Date Ended Conversion' that uses the Unix timestamps formula to convert the data contained within 'deadline' into Excel's date format.
+
 ![alt text](https://github.com/gnivil/Excel-Challenge/blob/bbb193e4f608185bcb2273a70c6047426241a801/Chart%20Images/Chart%20Snippet_Kickstart%20My%20Chart.png)
 
 * Created a new sheet with a pivot table analyzing the initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per 'category'.
 * Created a stacked column pivot chart that can be filtered by 'country' based on the pivot table created.
+
 ![alt text](https://github.com/gnivil/Excel-Challenge/blob/bbb193e4f608185bcb2273a70c6047426241a801/Chart%20Images/Category%20Breakdown_Kickstart%20My%20Chart.png)
 
 * Created a new sheet with a pivot table analyzing initial worksheet to count how many campaigns were successful, failed, or canceled, or are currently live per 'sub-category'.
 * Created a stacked column pivot chart that can be filtered by 'country' and 'parent-category' based on the pivot-table created.
+
 ![alt text](https://github.com/gnivil/Excel-Challenge/blob/bbb193e4f608185bcb2273a70c6047426241a801/Chart%20Images/Subcategory%20Breakdown_Kickstart%20My%20Chart.png)
 
 * Created a new sheet with a pivot table with a column of 'state', rows of 'Date Created Conversion', values based on the count of 'state', and filters based on 'parent category' and 'Years'.
 * Created a pivot chart line graph that visualizes the pivot-table created.
+
 ![alt text](https://github.com/gnivil/Excel-Challenge/blob/bbb193e4f608185bcb2273a70c6047426241a801/Chart%20Images/Monthly%20Breakdown_Kickstart%20My%20Chart.png)
 
 -----
