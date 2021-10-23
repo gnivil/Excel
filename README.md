@@ -98,9 +98,9 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 ## Bonus Statistical Analysis Report
 * Does the mean or the median summarize the data more meaningfully?
-The Median summarizes the data more meaningfully because the data is slightly skewed due to outliers.
+    * The Median summarizes the data more meaningfully because the data is slightly skewed due to outliers.
 
 * Is there more variability with successful or unsuccessful campaigns? Does this make sense? Why or why not?
-There is more variability with successful campaigns. This makes sense because there were four campaigns that had upper-bound outliers skewing the dataset, thus increasing its variance.
+    * There is more variability with successful campaigns. This makes sense because there were four campaigns that had upper-bound outliers skewing the dataset, thus increasing its variance.
 
 -----
